@@ -3,7 +3,6 @@
 '''
 
 lado = int(input('Introduce la medida del cuadrado: '))
-# lado = int(lado)
 superficie = lado * lado
 
 print('La superficie del cuadrado: ', superficie)
