@@ -6,7 +6,9 @@
   Las edades de cada estudiante deben ingresarse por teclado.
   
   a) Obtener el promedio de las edades de cada turno (tres promedios)
+
   b) Imprimir dichos promedios (promedio de cada turno)
+  
   c) Mostrar por pantalla un mensaje que indique cual de los tres turnos tiene un promedio de edades mayor. 
 '''
 
