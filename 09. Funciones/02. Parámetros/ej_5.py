@@ -23,7 +23,7 @@ def deMenorAMayor(num1, num2, num3):
             if num1 < num2:
                 print(f'\nNúmeros ordenados: {num3} - {num1} - {num2}')
             else:
-                print(f'\nNúmeros ordenados: {num3} - {num2} - {num3}')
+                print(f'\nNúmeros ordenados: {num3} - {num2} - {num1}')
 
 
 def main():
