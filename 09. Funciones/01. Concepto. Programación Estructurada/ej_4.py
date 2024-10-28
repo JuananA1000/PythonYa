@@ -3,7 +3,7 @@
   programa llamar 2 veces a dicha función (sin utilizar una estructura repetitiva) 
 '''
 
-def elMenor():
+def el_menor():
     num1 = int(input('Numero 1: '))
     num2 = int(input('Numero 2: '))
     num3 = int(input('Numero 3: '))
@@ -15,5 +15,5 @@ def elMenor():
     else:
         print(f'\n{num3} es el número menor\n')
 
-elMenor()
-elMenor()
+el_menor()
+el_menor()

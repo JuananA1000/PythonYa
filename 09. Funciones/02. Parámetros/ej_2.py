@@ -3,7 +3,7 @@
   teclado.
 '''
 
-def elMayor(num1, num2, num3):
+def el_mayor(num1, num2, num3):
 
     if num1 > num2 and num1 > num3:
         print(f'\n{num1} es el número mayor\n')
@@ -19,6 +19,6 @@ def main():
     v2 = int(input('Numero 2: '))
     v3 = int(input('Numero 3: '))
 
-    elMayor(v1, v2, v3)
+    el_mayor(v1, v2, v3)
 
 main()

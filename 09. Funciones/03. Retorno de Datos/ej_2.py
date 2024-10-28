@@ -2,7 +2,7 @@
   Confeccionar una función que le enviemos como parámetros dos enteros y nos retorne el mayor.
 '''
 
-def elMayor(num1, num2):
+def el_mayor(num1, num2):
 
     if num1 > num2:
         return num1
@@ -14,7 +14,7 @@ def main():
     n1 = int(input('Número 1: '))
     n2 = int(input('Número 2: '))
 
-    mayor = elMayor(n1, n2)
+    mayor = el_mayor(n1, n2)
 
     print(f'El mayor es {mayor}')
 
