@@ -10,7 +10,7 @@ Como ya hemos dicho antes, los contenidos de este curso, están alojados en el [
 
 Descarga python en este [link](https://www.python.org/downloads/) e instálalo como cualquier otro programa. Asegúrate de marcar los dos checks de abajo y click en **Install Now**
 
-![Install Python](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Install Python](https://github.com/JuananA1000/PythonYa/blob/main/01.%20Introducci%C3%B3n%20a%20Python/instalar_python.png?raw=true)
 
 ## Requisitos
 
