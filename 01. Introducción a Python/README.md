@@ -15,4 +15,4 @@ Descarga python en este [link](https://www.python.org/downloads/) e instálalo c
 ## Requisitos
 
 - Python 3.0 o superior
-- Un Entorno de Desarrollo o Editor de código. En esta casa somos fieles a VSCode que, si quieres, puedes descargarlo e instalarlo [aqui](https://code.visualstudio.com/), además tiene plugins que ayudan al desallorro con este lenguaje.
+- Un **Entorno de Desarrollo** o **Editor de código**. En esta casa somos fieles a VSCode que, si quieres, puedes descargarlo e instalarlo [aqui](https://code.visualstudio.com/), además tiene plugins que ayudan al desallorro con este lenguaje.
