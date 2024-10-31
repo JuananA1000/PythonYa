@@ -11,7 +11,7 @@ Pero faltan otros operadores imprescindibles:
 
 Estos dos operadores **agrupan varias condiciones simples**.
 
-![Estructura Condicional Anidada con operadores lógicos](https://github.com/JuananA1000/PythonYa/blob/main/diagrama.jpg?raw=true)
+![Estructura Condicional Anidada con operadores lógicos](https://github.com/JuananA1000/PythonYa/blob/main/04.%20Estructuras%20Condicionales/03.%20Condicionales%20Compuestos%20con%20Operadores%20L%C3%B3gicos/ECCol.jpg?raw=true)
 
 Si la condición 1 **Y** la condición 2 son verdaderas, se ejecuta la rama del verdadero.
 
