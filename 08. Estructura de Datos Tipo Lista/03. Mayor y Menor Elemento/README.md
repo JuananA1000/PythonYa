@@ -1,4 +1,4 @@
-# Mayor y Menor Elemento
+## Mayor y Menor Elemento
 
 Es una actividad muy común la búsqueda del mayor y menor elemento de una lista.
 Es **necesario** que la lista tenga **valores del mismo tipo**, por ejemplo enteros. 
