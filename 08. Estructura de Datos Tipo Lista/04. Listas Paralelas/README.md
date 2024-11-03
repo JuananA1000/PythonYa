@@ -1,6 +1,6 @@
 ## Listas paralelas
 
-Podemos decir que dos listas son paralelas cuando hay una relación entre las componentes de igual subíndice (misma posición) de una lista y otra.
+Dos listas son paralelas cuando hay una relación entre componentes con la misma posición de una lista y otra.
 
 ```
 nombres = ['Juan' , 'Ana' , 'Marcos' , 'Laura' ]
