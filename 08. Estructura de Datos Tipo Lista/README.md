@@ -10,8 +10,14 @@ nombre = "juan"
 
 En Python existe un tipo de variable que permite almacena colecciones de datos y permite acceder mediante un subíndices, como en los strings.
 
-Creación de la lista por asignación
+Creación de la lista por asignación:
 
 ```
 lista1 = [10, 5, 3]
 ```
+
+Al igual que en los Strings, las posiciones de los elementos de una lista, **tambien parten de cero**:
+
+|  Lista   |  10  |  5  |  3  |
+|:--------:|:----:|:---:|:---:|
+| Posición |   0  |  1  |  2  |
