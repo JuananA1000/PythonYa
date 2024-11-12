@@ -41,7 +41,7 @@ Los subíndices se numeran a partir de **cero**.
 |:---:|:---:|:---:|:---:|
 |  0  |  1  |  2  |  3  |
 
-Para saber la longitud de un string en Python usaremos la función **len()** que retorna la cantidad de caracteres que contiene:
+Para saber la longitud de un string en Python usaremos la función `len()` que retorna la cantidad de caracteres que contiene:
 
 ```
 nombre = 'juan'

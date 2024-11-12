@@ -11,4 +11,4 @@ El código esquemático para el bucle for, sería el siguiente:
 for i in range(10):
 ```
 
-Siendo *i* la variable conocida como **iterador** y range() el número de veces que deseamos repetir el código.
+Siendo *i* la variable conocida como **iterador** y `range()` el número de veces que deseamos repetir el código.

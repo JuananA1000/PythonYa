@@ -8,7 +8,7 @@ Podemos definir listas **por asignación** indicando entre corchetes sus valores
 lista = [10, 20, 40]
 ```
 
-Una vez definida, podremos **agregarle más elementos** mediante el método **append()** :
+Una vez definida, podremos **agregarle más elementos** mediante el método `append()` :
 
 ```
 lista = [10, 20, 30]
