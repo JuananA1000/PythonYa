@@ -18,7 +18,7 @@ Sin corregir todos estos errores, un programa no se ejecuta.
 
 _Hallar la superficie de un cuadrado conociendo el valor de un lado._
 
-```
+```python
 lado = int(input("Lado del cuadrado: "))
 superficie = lado * lado
 
@@ -30,7 +30,7 @@ print("La superficie del cuadrado es: ", Superficie)
 
 Este sería un programa correctamente codificado:
 
-```
+```python
 lado = int(input("Lado del cuadrado: "))
 superficie = lado * lado
 
@@ -45,7 +45,7 @@ Los **errores lógicos**, en programas grandes, de miles de líneas, son más di
 
 _Hallar la superficie de un cuadrado conociendo el valor de un lado._
 
-```
+```python
 lado = int(input("Lado del cuadrado: "))
 superficie = lado * lado * lado
 

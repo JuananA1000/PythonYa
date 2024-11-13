@@ -4,13 +4,13 @@ Las listas en Python son estructuras **mutables** porque **pueden cambiar durant
 
 Podemos definir listas **por asignación** indicando entre corchetes sus valores:
 
-```
+```python
 lista = [10, 20, 40]
 ```
 
 Una vez definida, podremos **agregarle más elementos** mediante el método `append()` :
 
-```
+```python
 lista = [10, 20, 30]
 print(len(lista))    # imprime un 3
 lista.append(100)

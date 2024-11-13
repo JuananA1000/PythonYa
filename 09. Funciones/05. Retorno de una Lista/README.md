@@ -8,7 +8,7 @@ Ahora veremos que una función también puede **retornar una estructura de datos
 
 Ejemplo: *Función que genera y retorna una lista de números pares hasta un límite dado*:
 
-```
+```python
 def generar_lista_pares(lim):
     lista_pares = []
     for i in range(0, lim):

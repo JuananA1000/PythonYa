@@ -13,7 +13,8 @@ Esta sería, más o menos, la representación gráfica de una **estructura condi
 ![Diagrama de flujo](https://github.com/JuananA1000/PythonYa/blob/main/04.%20Estructuras%20Condicionales/condicion.jpg?raw=true)
 
 El código básico de este tipo de estructuras sería el siguiente:
-```
+
+```python
 if condition:
     # code
 elif condition:

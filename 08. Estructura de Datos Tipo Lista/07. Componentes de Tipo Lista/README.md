@@ -2,7 +2,7 @@
 
 Hasta ahora, hemos trabajado con listas de enteros, flotantes o cadenas de caracteres
 
-```
+```python
 notas = [8, 6, 8]
 alturas = [1.73, 1.55, 1.92]
 dias = ["lunes", "martes", "miércoles"]
@@ -10,7 +10,7 @@ dias = ["lunes", "martes", "miércoles"]
 
 Pero lo que hace tan flexible a esta estructura de datos es que podemos almacenar también **componentes de tipo lista**.
 
-```
+```python
 notas = [
     [4, 5], 
     [6, 9], 

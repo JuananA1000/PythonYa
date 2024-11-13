@@ -4,9 +4,8 @@ En Python se pueden definir parámetros con valores en la misma cabecera de la f
 
 Los parámetros por defecto permiten crear **funciones más flexibles** y emplearlas en distintas circunstancias.
 
-Aquí tienes un ejemplo de una función con un parámetro con un valor por defecto:
-
-```
+Ejemplo: *Función con un parámetro con un valor por defecto*:
+```python
 def saludar(nombre="Juan"):
     return f"Hola, {nombre}!"
 

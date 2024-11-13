@@ -2,7 +2,7 @@
 
 Otro algoritmo que se debe conocer es el **ordenamiento de una lista de datos**. El ordenamiento de una lista se logra intercambiando los componentes de manera que:
 
-```
+```python
 lista[0] <= lista[1] <= lista[2]...
 ```
 

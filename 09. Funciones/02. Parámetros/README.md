@@ -6,7 +6,7 @@ Tenemos, por un lado, la declaración de la función y el código que realizará
 
 Ahora veremos que una función puede tener **parámetros** que reciben datos. Los parámetros nos permiten comunicarle algo a la función y la hace más flexible.
 
-```
+```python
 def funcion_con_parametros(parametro):
     # código de la función con parámetros
 ```

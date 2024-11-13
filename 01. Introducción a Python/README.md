@@ -20,6 +20,6 @@ Descarga python en este [link](https://www.python.org/downloads/) e instálalo c
 ## Nuestro Primer programa en Python
 Generalmente, cuando aprendemos un nuevo lenguaje, lo primero que hacemos es **imprimir** un simple mensaje, un 'Hola Mundo', de la siguiente manera:
 
-```
+```python
 print('Hola Mundo')
 ```

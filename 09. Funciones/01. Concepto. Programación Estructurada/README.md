@@ -8,7 +8,7 @@ A medida que avancemos veremos que si un programa tiene cientos o incluso miles 
 
 En el código, una función tiene este aspecto:
 
-```
+```python
 def funcion_ejemplo():
     # código de la función
 

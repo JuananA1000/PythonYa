@@ -10,6 +10,6 @@ Esta estructura, repite el código contenido en ella **mientras** la condición 
 
 El código esquemático para el bucle while, sería el siguiente:
 
-```
+```python
 while condition:
 ```

@@ -6,7 +6,7 @@ Hasta ahora hemos resuelto problemas enviando datos simples como **enteros**, **
 
 Ahora veremos que una función puede recibir también **estructuras de datos** como parámetro.
 
-```
+```python
 def ordenar_lista(lista):
     return sorted(lista)
 

@@ -7,7 +7,7 @@ En estos casos utilizaremos, generalmente, el **bucle for**.
 
 El código esquemático para el bucle for, sería el siguiente:
 
-```
+```python
 for i in range(10):
 ```
 

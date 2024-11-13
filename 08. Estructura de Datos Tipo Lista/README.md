@@ -2,7 +2,7 @@
 
 Hasta ahora hemos trabajado con variables que permiten almacenar un único valor:
 
-```
+```python
 edad = 12
 altura = 1.79
 nombre = "juan"
@@ -12,7 +12,7 @@ En Python existe un tipo de variable que permite almacena colecciones de datos y
 
 Creación de la lista por asignación:
 
-```
+```python
 lista1 = [10, 5, 3]
 ```
 

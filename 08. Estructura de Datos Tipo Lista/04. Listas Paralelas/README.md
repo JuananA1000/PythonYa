@@ -2,7 +2,7 @@
 
 Dos listas son paralelas cuando hay una relación entre componentes con la misma posición de una lista y otra.
 
-```
+```python
 nombres = ['Juan' , 'Ana' , 'Marcos' , 'Laura' ]
 edades = [31, 23, 42, 32]
 ```

@@ -2,7 +2,7 @@
 
 En el concepto anterior vimos que fácilmente podemos definir por asignación una lista cuyas componentes sean también listas:
 
-```
+```python
 lista = [
     [1, 2, 3], 
     [7, 4], 
