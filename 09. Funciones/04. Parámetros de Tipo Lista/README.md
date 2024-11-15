@@ -6,6 +6,7 @@ Hasta ahora hemos resuelto problemas enviando datos simples como **enteros**, **
 
 Ahora veremos que una función puede recibir también **estructuras de datos** como parámetro.
 
+Ejemplo: *Ordena una lista de enteros de menor a mayor:*
 ```python
 def ordenar_lista(lista):
     return sorted(lista)

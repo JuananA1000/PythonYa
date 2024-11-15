@@ -17,7 +17,13 @@ Si llamamos a la función `saludar()` sin argumentos, **usará el valor por defe
 
 > [!IMPORTANT]  
 > Los parámetros por defecto deben ser los **últimos que se declaren en la función**. Se genera un error si definimos una función con los valores por defecto al principio, por lo que:
+>
 > esto es INCORRECTO:
-> `def suma(num1=4, num2=3, num3=7, num4, num5):`
+> ```python
+> def suma(num1=4, num2=3, num3=7, num4, num5):
+> ```
+>
 > esto es CORRECTO:
-> `def suma(num1, num2, num3=4, num4=3, num5=7):`
+> ```python
+>  def suma(num1, num2, num3=4, num4=3, num5=7):`
+> ```

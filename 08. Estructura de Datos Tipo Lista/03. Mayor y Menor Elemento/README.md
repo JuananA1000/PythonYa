@@ -7,7 +7,7 @@ Pueden ser de tipo cadenas de caracteres
 y se busque cual es **mayor o menor alfabéticamente**.
 
 > [!TIP]  
-> *si la letra 'a', es la 1ª en el abecedario, y la letra 'd' tiene la 4ª, 'd' es **mayor alfabéticamente** que 'a', porque 4 es mayor que 1*.
+> *si la letra 'a', es la 1ª en el abecedario, y la letra 'd' es la 4ª; 'd' es **mayor alfabéticamente** que 'a', porque 4 es mayor que 1*.
  
 ```python
 lista = ["lunes", "martes", "miercoles"]

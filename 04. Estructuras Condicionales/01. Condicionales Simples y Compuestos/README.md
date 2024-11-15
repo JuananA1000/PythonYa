@@ -9,7 +9,7 @@ En este tipo de estructuras tenemos la opción de **realizar una actividad** o *
 ![Estructura Condicional Simple](https://github.com/JuananA1000/PythonYa/blob/main/04.%20Estructuras%20Condicionales/01.%20Condicionales%20Simples%20y%20Compuestos/ECS.jpg?raw=true)
 
 El esquema básico de este tipo de estructuras es el siguiente:
-```
+```python
 if condition:
     # code
 ```
@@ -21,7 +21,7 @@ En este otro tipo de estructuras tenemos la tenemos la opción de **realizar una
 ![Estructura Condicional Compuesta](https://github.com/JuananA1000/PythonYa/blob/main/04.%20Estructuras%20Condicionales/01.%20Condicionales%20Simples%20y%20Compuestos/ECC.jpg?raw=true)
 
 El esquema básico de este tipo de estructuras sería el siguiente:
-```
+```python
 if condition:
     # code
 else:

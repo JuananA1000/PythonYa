@@ -11,9 +11,11 @@ Ejemplo: *Función que genera y retorna una lista de números pares hasta un lí
 ```python
 def generar_lista_pares(lim):
     lista_pares = []
+
     for i in range(0, lim):
         if i % 2 == 0:
             lista_pares.append(i)
+            
     return lista_pares
 
 # Ejemplo de uso

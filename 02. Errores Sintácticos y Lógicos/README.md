@@ -12,11 +12,12 @@ Estos errores son detectados por el intérprete de Python, **antes de ejecutar e
 - Falta de paréntesis
 - Palabras claves mal escritas
 
-Sin corregir todos estos errores, un programa no se ejecuta.
+> [!IMPORTANT]  
+> Si no corregimos todos estos errores, nuestro programa **no se ejecuta**.
 
 ### Ejemplo de error sitáctico
 
-_Hallar la superficie de un cuadrado conociendo el valor de un lado._
+*Hallar la superficie de un cuadrado conociendo el valor de un lado.*
 
 ```python
 lado = int(input("Lado del cuadrado: "))
@@ -39,7 +40,7 @@ print("La superficie del cuadrado es: ", superficie)
 
 ## Errores lógicos
 
-Los **errores lógicos**, en programas grandes, de miles de líneas, son más difíciles de localizar. Por ejemplo un programa que permite hacer la facturación pero la salida de datos por impresora es incorrecta.
+Los **errores lógicos**, en programas grandes, de miles de líneas, son más difíciles de localizar. Por ejemplo, un programa que permite hacer la facturación pero la salida de datos por impresora es incorrecta.
 
 ### Ejemplo de error lógico:
 

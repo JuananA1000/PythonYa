@@ -9,7 +9,7 @@ lista[0] <= lista[1] <= lista[2]...
 En este caso, el contenido de lista[0] es menor o igual que lista[1] y así sucesivamente.
 Si esto se cumple, decimos que la lista está **ordenada de menor a mayor**.
 
-Podemos ordenar tanto listas con componentes tipo *int*, *float* y cadenas de caracteres. En este último caso el ordenamiento es alfabético.
+Podemos ordenar tanto listas con componentes tipo *int*, *float* como *cadenas de caracteres*. En este último caso el ordenamiento es **alfabético**.
 
 
 

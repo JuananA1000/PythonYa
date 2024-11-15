@@ -2,9 +2,7 @@
 
 Una función es un conjunto de instrucciones en Python que resuelven un problema específico.
 
-Python ya tiene incorporada algunas funciones básicas como: `print()`, `len()` y `range()` pero, nosotros también podemos **crear nuestras propias funciones**.
-
-A medida que avancemos veremos que si un programa tiene cientos o incluso miles de líneas la división en funciones nos permitirá tener un programa más ordenado y fácil de mantener.
+Python ya tiene incorporada algunas funciones básicas como: `print()`, `len()` y `range()` pero, nosotros también podemos **crear nuestras propias funciones**. La división de un programa en funciones permite tener un programa **más ordenado y fácil de mantener**.
 
 En el código, una función tiene este aspecto:
 
