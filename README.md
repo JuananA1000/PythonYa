@@ -23,23 +23,23 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 ## Temario
 
-[1. Introducción a Python](https://github.com/JuananA1000/PythonYa/tree/main/01. Introducción a Python)
+1. Introducción a Python
 
-[2. Errores Sintácticos y Lógicos](https://github.com/JuananA1000/PythonYa/tree/main/)
+2. Errores Sintácticos y Lógicos
 
-[3. Programación Secuencial](https://github.com/JuananA1000/PythonYa/tree/main/)
+3. Programación Secuencial
 
-[4. Estructuras Condicionales](https://github.com/JuananA1000/PythonYa/tree/main/)
+4. Estructuras Condicionales
 
-[5. Estructuras Repetitivas: Bucles **while** y **for**](https://github.com/JuananA1000/PythonYa/tree/main/)
+5. Estructuras Repetitivas: Bucles **while** y **for**
 
-[6. Variables Enteras, Flotantes y Cadenas de Caracteres](https://github.com/JuananA1000/PythonYa/tree/main/)
+6. Variables Enteras, Flotantes y Cadenas de Caracteres
 
-[7. Procesar Cadenas de Caracteres](https://github.com/JuananA1000/PythonYa/tree/main/)
+7. Procesar Cadenas de Caracteres
 
-[8. Estructura de Datos Tipo Lista](https://github.com/JuananA1000/PythonYa/tree/main/)
+8. Estructura de Datos Tipo Lista
 
-[9. Funciones](https://github.com/JuananA1000/PythonYa/tree/main/)
+9. Funciones
 
 10. Estructura de datos tipo Tupla
 
@@ -71,41 +71,41 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 24. Redefinición de los operadores relacionales con objetos
 
-28. **pip**: instalador de paquetes
+25. **pip**: instalador de paquetes
 
-29. **pip**: funcionalidades
+26. **pip**: funcionalidades
 
-30. **Interfaz Gráfica de Usuario**: **tkinter**
+27. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
 
-31. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
+28. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
 
-32. **Archivos de texto**: creación, escritura y lectura
+29. **Archivos de texto**. Creación, escritura y lectura
 
-33. **MySQL**: Base de datos desde Python
+30. **MySQL**. Base de datos desde Python
 
-34. Manejo de excepciones en Python
+31. Manejo de excepciones en Python
 
-35. **SQLite**: Base de datos desde Python
+32. **SQLite**. Base de datos desde Python
 
-36. Recursividad
+33. Recursividad
 
-37. Funciones de orden superior
+34. Funciones de orden superior
 
-38. Funciones lambda en Python
+35. Funciones lambda en Python
 
-39. Comprensión de listas en Python
+36. Comprensión de listas en Python
 
-40. Estructura de datos tipo conjunto (set)
+37. Estructura de datos tipo conjunto (set)
 
-41. **PostgreSQL**: Base de datos desde Python
+38. **PostgreSQL**. Base de datos desde Python
 
-42. Módulos y paquetes en Python
+39. Módulos y paquetes en Python
 
-43. Acceso a Internet mediante el paquete urllib
+40. Acceso a Internet mediante el paquete urllib
 
-44. Procesar archivos con formato JSON en Python (módulo json)
+41. Procesar archivos con formato JSON en Python. Módulo json
 
-45. Serialización y deserialización en Python (módulo json)
+42. Serialización y deserialización en Python. Módulo json
 
 
 
