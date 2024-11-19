@@ -65,7 +65,7 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 21. Conceptos de programación orientada a objetos. Clases y creación de objetos.
 
-22. Método especial **__str__**
+22. Método especial **\_\_str\_\_**
 
 23. Redefinición de los operadores matemáticos con objetos
 
