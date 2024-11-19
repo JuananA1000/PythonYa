@@ -23,23 +23,23 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 ## Temario
 
-1. Introducción a Python
+[1. Introducción a Python](https://github.com/JuananA1000/PythonYa/tree/main/01. Introducción a Python)
 
-2. Errores Sintácticos y Lógicos
+[2. Errores Sintácticos y Lógicos](https://github.com/JuananA1000/PythonYa/tree/main/)
 
-3. Programación Secuencial
+[3. Programación Secuencial](https://github.com/JuananA1000/PythonYa/tree/main/)
 
-4. Estructuras Condicionales
+[4. Estructuras Condicionales](https://github.com/JuananA1000/PythonYa/tree/main/)
 
-5. Estructuras Repetitivas: Bucles **while** y **for**
+[5. Estructuras Repetitivas: Bucles **while** y **for**](https://github.com/JuananA1000/PythonYa/tree/main/)
 
-6. Variables Enteras, Flotantes y Cadenas de Caracteres
+[6. Variables Enteras, Flotantes y Cadenas de Caracteres](https://github.com/JuananA1000/PythonYa/tree/main/)
 
-7. Procesar Cadenas de Caracteres
+[7. Procesar Cadenas de Caracteres](https://github.com/JuananA1000/PythonYa/tree/main/)
 
-8. Estructura de Datos Tipo Lista
+[8. Estructura de Datos Tipo Lista](https://github.com/JuananA1000/PythonYa/tree/main/)
 
-9. Funciones
+[9. Funciones](https://github.com/JuananA1000/PythonYa/tree/main/)
 
 10. Estructura de datos tipo Tupla
 
