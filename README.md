@@ -81,31 +81,27 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 29. **Archivos de texto**. Creación, escritura y lectura
 
-30. **MySQL**. Base de datos desde Python
+30.  Bases de datos desde Python. **MySQL**, **SQLite** y **PostgreSQL**.
 
 31. Manejo de excepciones en Python
 
-32. **SQLite**. Base de datos desde Python
+32. Recursividad
 
-33. Recursividad
+33. Funciones de orden superior
 
-34. Funciones de orden superior
+34. Funciones lambda en Python
 
-35. Funciones lambda en Python
+35. Comprensión de listas en Python
 
-36. Comprensión de listas en Python
+36. Estructura de datos tipo conjunto (set)
 
-37. Estructura de datos tipo conjunto (set)
+37. Módulos y paquetes en Python
 
-38. **PostgreSQL**. Base de datos desde Python
+38. Acceso a Internet mediante el paquete urllib
 
-39. Módulos y paquetes en Python
+39. Procesar archivos con formato JSON en Python. Módulo json
 
-40. Acceso a Internet mediante el paquete urllib
-
-41. Procesar archivos con formato JSON en Python. Módulo json
-
-42. Serialización y deserialización en Python. Módulo json
+40. Serialización y deserialización en Python. Módulo json
 
 
 
