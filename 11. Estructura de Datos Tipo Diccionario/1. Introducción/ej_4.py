@@ -10,13 +10,11 @@
   c) Consulta del nombre de una persona ingresando su número de documento. 
 '''
 
-
 def imprimir(diccionario):
     print("\nDICCIONARIO")
 
     for dni in diccionario:
         print(f'{dni}: {diccionario[dni]}')
-
 
 def consulta_nombre(diccionario):
     dni = input("\nIngrese el DNI a consultar: ")
