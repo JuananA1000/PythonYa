@@ -43,65 +43,59 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 10. Estructura de datos tipo Tupla
 
-11. Listas y tuplas anidadas
+11. Estructura de datos tipo diccionario
 
-12. Variantes de la estructura repetitiva for para recorrer tuplas y listas
+12. Funciones: parámetros mutables e inmutables
 
-13. Estructura de datos tipo diccionario
+13. Porciones de listas, tuplas y cadenas de caracteres
 
-14. Diccionarios: con valores de tipo listas, tuplas y diccionarios
+14. Indices negativos en listas, tuplas y cadenas de caracteres
 
-15. Funciones: parámetros mutables e inmutables
+15. Biblioteca estándar de Python
 
-16. Porciones de listas, tuplas y cadenas de caracteres
+16. Importar algunas funcionalidades de un módulo de la biblioteca estándar de Python
 
-17. Indices negativos en listas, tuplas y cadenas de caracteres
+17. Aplicaciones propias con varios módulos
 
-18. Biblioteca estándar de Python
+18. Conceptos de programación orientada a objetos. Clases y creación de objetos.
 
-19. Importar algunas funcionalidades de un módulo de la biblioteca estándar de Python
+19. Método especial **\_\_str\_\_**
 
-20. Aplicaciones propias con varios módulos
+20. Redefinición de los operadores matemáticos con objetos
 
-21. Conceptos de programación orientada a objetos. Clases y creación de objetos.
+21. Redefinición de los operadores relacionales con objetos
 
-22. Método especial **\_\_str\_\_**
+22. **pip**: instalador de paquetes
 
-23. Redefinición de los operadores matemáticos con objetos
+23. **pip**: funcionalidades
 
-24. Redefinición de los operadores relacionales con objetos
+24. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
 
-25. **pip**: instalador de paquetes
+25. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
 
-26. **pip**: funcionalidades
+26. **Archivos de texto**. Creación, escritura y lectura
 
-27. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
+27. Bases de datos desde Python. **MySQL**, **SQLite** y **PostgreSQL**.
 
-28. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
+28. Manejo de excepciones en Python
 
-29. **Archivos de texto**. Creación, escritura y lectura
+29. Recursividad
 
-30.  Bases de datos desde Python. **MySQL**, **SQLite** y **PostgreSQL**.
+30. Funciones de orden superior
 
-31. Manejo de excepciones en Python
+31. Funciones lambda en Python
 
-32. Recursividad
+32. Comprensión de listas en Python
 
-33. Funciones de orden superior
+33. Estructura de datos tipo conjunto (set)
 
-34. Funciones lambda en Python
+34. Módulos y paquetes en Python
 
-35. Comprensión de listas en Python
+35. Acceso a Internet mediante el paquete urllib
 
-36. Estructura de datos tipo conjunto (set)
+36. Procesar archivos con formato JSON en Python. Módulo json
 
-37. Módulos y paquetes en Python
-
-38. Acceso a Internet mediante el paquete urllib
-
-39. Procesar archivos con formato JSON en Python. Módulo json
-
-40. Serialización y deserialización en Python. Módulo json
+37. Serialización y deserialización en Python. Módulo json
 
 
 
