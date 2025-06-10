@@ -43,59 +43,53 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 10. Estructura de datos tipo Tupla
 
-11. Estructura de datos tipo diccionario
+11. Estructura de datos tipo Diccionario
 
-12. Funciones: parámetros mutables e inmutables
+12. Más Operaciones con Listas, Tuplas y Cadenas de Caracteres
 
-13. Porciones de listas, tuplas y cadenas de caracteres
+13. Biblioteca estándar de Python. Importación de módulos
 
-14. Indices negativos en listas, tuplas y cadenas de caracteres
+14. Aplicaciones propias con varios módulos
 
-15. Biblioteca estándar de Python
+15. Conceptos de programación orientada a objetos. Clases y creación de objetos.
 
-16. Importar algunas funcionalidades de un módulo de la biblioteca estándar de Python
+16. Método especial **\_\_str\_\_**
 
-17. Aplicaciones propias con varios módulos
+17. Redefinición de los operadores matemáticos con objetos
 
-18. Conceptos de programación orientada a objetos. Clases y creación de objetos.
+18. Redefinición de los operadores relacionales con objetos
 
-19. Método especial **\_\_str\_\_**
+19. **pip**: instalador de paquetes
 
-20. Redefinición de los operadores matemáticos con objetos
+20. **pip**: funcionalidades
 
-21. Redefinición de los operadores relacionales con objetos
+21. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
 
-22. **pip**: instalador de paquetes
+22. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
 
-23. **pip**: funcionalidades
+23. **Archivos de texto**. Creación, escritura y lectura
 
-24. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
+24. Bases de datos desde Python. **MySQL**, **SQLite** y **PostgreSQL**.
 
-25. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
+25. Manejo de excepciones en Python
 
-26. **Archivos de texto**. Creación, escritura y lectura
+26. Recursividad
 
-27. Bases de datos desde Python. **MySQL**, **SQLite** y **PostgreSQL**.
+27. Funciones de orden superior
 
-28. Manejo de excepciones en Python
+28. Funciones lambda en Python
 
-29. Recursividad
+29. Comprensión de listas en Python
 
-30. Funciones de orden superior
+30. Estructura de datos tipo conjunto (set)
 
-31. Funciones lambda en Python
+31. Módulos y paquetes en Python
 
-32. Comprensión de listas en Python
+32. Acceso a Internet mediante el paquete urllib
 
-33. Estructura de datos tipo conjunto (set)
+33. Procesar archivos con formato JSON en Python. Módulo json
 
-34. Módulos y paquetes en Python
-
-35. Acceso a Internet mediante el paquete urllib
-
-36. Procesar archivos con formato JSON en Python. Módulo json
-
-37. Serialización y deserialización en Python. Módulo json
+34. Serialización y deserialización en Python. Módulo json
 
 
 
