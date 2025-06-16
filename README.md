@@ -49,47 +49,39 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 13. Biblioteca estándar de Python. Importación de módulos
 
-14. Aplicaciones propias con varios módulos
+14. Programación orientada a objetos.
 
-15. Conceptos de programación orientada a objetos. Clases y creación de objetos.
+15. **pip**: instalador de paquetes
 
-16. Método especial **\_\_str\_\_**
+16. **pip**: funcionalidades
 
-17. Redefinición de los operadores matemáticos con objetos
+17. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
 
-18. Redefinición de los operadores relacionales con objetos
+18. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
 
-19. **pip**: instalador de paquetes
+19. **Archivos de texto**. Creación, escritura y lectura
 
-20. **pip**: funcionalidades
+20. Bases de datos desde Python. **MySQL**, **SQLite** y **PostgreSQL**.
 
-21. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
+21. Manejo de excepciones en Python
 
-22. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
+22. Recursividad
 
-23. **Archivos de texto**. Creación, escritura y lectura
+23. Funciones de orden superior
 
-24. Bases de datos desde Python. **MySQL**, **SQLite** y **PostgreSQL**.
+24. Funciones lambda en Python
 
-25. Manejo de excepciones en Python
+25. Comprensión de listas en Python
 
-26. Recursividad
+26. Estructura de datos tipo conjunto (set)
 
-27. Funciones de orden superior
+27. Módulos y paquetes en Python
 
-28. Funciones lambda en Python
+28. Acceso a Internet mediante el paquete urllib
 
-29. Comprensión de listas en Python
+29. Procesar archivos con formato JSON en Python. Módulo json
 
-30. Estructura de datos tipo conjunto (set)
-
-31. Módulos y paquetes en Python
-
-32. Acceso a Internet mediante el paquete urllib
-
-33. Procesar archivos con formato JSON en Python. Módulo json
-
-34. Serialización y deserialización en Python. Módulo json
+30. Serialización y deserialización en Python. Módulo json
 
 
 
