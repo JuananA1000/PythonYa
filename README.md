@@ -82,10 +82,3 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 29. Procesar archivos con formato JSON en Python. Módulo json
 
 30. Serialización y deserialización en Python. Módulo json
-
-
-
-
-
-
-
