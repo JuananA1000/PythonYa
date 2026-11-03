@@ -28,5 +28,6 @@ build/
 ehthumbs.db
 Thumbs.db
 
-# Ignorar todos los archivos .txt
+# Ignorar todos los archivos .txt y .db
 *.txt
+*.db
