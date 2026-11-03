@@ -6,7 +6,7 @@
 import sqlite3
 from pathlib import Path
 
-bbdd = Path(__file__).parent / 'bd1.db' # Creamos el fichero en la misma carpeta que el script.
+bbdd = Path(__file__).parent.parent / 'bd1.db' # Creamos el fichero en una carpeta anterior al script, así la utilizamos para los ejercicios siguientes.
 
 conexion = sqlite3.connect(bbdd)
 conexion.execute("CREATE TABLE articulos (codigo INTEGER PRIMARY KEY AUTOINCREMENT, descripcion VARCHAR(30), precio real)")

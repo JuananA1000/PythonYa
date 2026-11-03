@@ -6,7 +6,7 @@
 import sqlite3
 from pathlib import Path
 
-bbdd = Path(__file__).parent / 'bd1.db'
+bbdd = Path(__file__).parent.parent / 'bd1.db'
 
 conexion = sqlite3.connect(bbdd)
 
