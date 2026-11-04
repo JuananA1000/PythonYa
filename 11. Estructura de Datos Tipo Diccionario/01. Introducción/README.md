@@ -1,4 +1,4 @@
-## Introducción
+## 11.1 Introducción
 
 Para definir un diccionario en Python podemos compararlo con un diccionario tradicional que conocemos. 
 La **clave** sería la palabra y el **valor** sería la definición de dicha palabra.

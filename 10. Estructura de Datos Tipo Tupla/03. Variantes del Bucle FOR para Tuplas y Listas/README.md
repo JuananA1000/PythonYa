@@ -1,4 +1,4 @@
-## Variantes del Bucle FOR para Tuplas y Listas
+## 10.3 Variantes del Bucle `for` para Tuplas y Listas
 
 Hasta ahora, siempre recorríamos listas o tuplas con un `for` procedíamos así:
 ```

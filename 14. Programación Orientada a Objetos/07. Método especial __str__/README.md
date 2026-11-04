@@ -1,4 +1,4 @@
-## Método especial __str__
+## 14.7 Método especial `__str__`
 
 Si llamamos a la función `print()` y le pasamos como parámetro un objeto...
 

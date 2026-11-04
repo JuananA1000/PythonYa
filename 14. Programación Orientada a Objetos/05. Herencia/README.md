@@ -1,4 +1,4 @@
-## Herencia
+## 14.5 Herencia
 
 La herencia consiste en la creación de nuevas clases partiendo de clases existentes, estas clases creadas *heredarán* los atributos y métodos de su o **clase padre** o **superclase** y se le podrán **añadir atributos y métodos propios**.
 

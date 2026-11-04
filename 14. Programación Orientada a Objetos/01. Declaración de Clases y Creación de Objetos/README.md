@@ -1,4 +1,4 @@
-## Declaración de Clases y Creación de Objetos
+## 14.1 Declaración de Clases y Creación de Objetos
 
 La Programación Orientada a Objetos se basa en la definición de **clases**, a diferencia de la programación estructurada, centrada en las **funciones**.
 

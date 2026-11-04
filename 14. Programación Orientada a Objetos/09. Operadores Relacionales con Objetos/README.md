@@ -1,4 +1,4 @@
-## Operadores Relacionales con Objetos
+## 14.9 Operadores Relacionales con Objetos
 
 Los métodos especiales que podemos implementar para redefinir los operadores relacionales cuando planteamos una clase son los siguientes:
 

@@ -1,4 +1,4 @@
-## Operadores Matemáticos con Objetos
+## 14.8 Operadores Matemáticos con Objetos
 
 Python permite redefinir los operadores matemáticos cuando planteamos una clase utilizando **métodos especiales**:
 

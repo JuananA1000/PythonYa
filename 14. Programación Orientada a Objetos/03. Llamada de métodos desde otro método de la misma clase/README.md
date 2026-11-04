@@ -1,4 +1,4 @@
-## Llamada de métodos desde otro método de la misma clase
+## 14.3 Llamada de métodos desde otro método de la misma clase
 
 Hasta ahora, en todos los problemas planteados hemos llamado a los métodos desde donde definimos un objeto de dicha clase, por ejemplo:
 

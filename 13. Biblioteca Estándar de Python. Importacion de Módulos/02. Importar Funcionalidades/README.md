@@ -1,4 +1,4 @@
-# Importar Funcionalidades
+## 13.2 Importar Funcionalidades
 
 Si queremos acceder solo a **una única** función del módulo **random**, lo podemos expresar utilizando la palabra clave **from** y el nombre del módulo que deseemos. Luego indicamos la palabra clave **import** y la funcionalidad que queremos importar, en nuestro ejemplo la función `randint()`.
 Para utilizar la función, simplemente hacemos referencia a ella directamente.

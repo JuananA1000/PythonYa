@@ -1,4 +1,4 @@
-# Método __init__ de la clase
+## 14.2 Método `__init__` de la clase
 
 El objetivo fundamental del método `__init__` es **inicializar** los atributos del objeto que creamos.
 

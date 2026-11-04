@@ -1,5 +1,4 @@
-
-# Programación Orientada a Objetos (POO)
+# 14. Programación Orientada a Objetos (POO)
 
 Python permite utilizar distintas metodologías de programación. Hemos implementado inicialmente **programación lineal**, luego vimos **funciones** y trabajamos con **programación estructurada**.
 
