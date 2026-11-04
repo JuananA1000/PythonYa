@@ -1,4 +1,4 @@
-### Otras Funcionalidades de mysql-connector
+### 18.1.3 Otras Funcionalidades de mysql-connector
 
 Hemos resuelto en los dos apartados anteriores algoritmos en Python que acceden a una base de datos de MySQL. Veremos otras funcionalidades que nos provee el paquete mysql-connector. Para utilizar cualquiera de estas funciones, también utilizaremos la función `cursor.execute()`. Algunas de estas otras funciones son:
 

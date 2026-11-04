@@ -1,4 +1,4 @@
-## Excepciones Estándar de Python
+## 19.2 Excepciones Estándar de Python
 
 Las **excepciones** son errores que se producen durante la ejecución de un programa. Python incluye excepciones para identificar distintos problemas y permitir que los controlemos mediante `try` y `except`.
 

@@ -1,4 +1,4 @@
-## MySQL
+## 18.1. MySQL
 
 Para crear y administrar bases de datos con python, necesitaremos instalar XAMPP
 

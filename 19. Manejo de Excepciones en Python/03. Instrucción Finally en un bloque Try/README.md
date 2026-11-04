@@ -1,4 +1,4 @@
-## Instrucción `finally` en un Bloque `try`
+## 19.3 Instrucción `finally` en un Bloque `try`
 
 Hemos visto que la sintaxis para la captura de excepciones es:
 
