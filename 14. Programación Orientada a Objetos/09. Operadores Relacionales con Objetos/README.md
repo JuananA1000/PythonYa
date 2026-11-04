@@ -2,37 +2,37 @@
 
 Los métodos especiales que podemos implementar para redefinir los operadores relacionales cuando planteamos una clase son los siguientes:
 
-Para el operador ==:
+Para el operador **==**:
 
 ```python
 __eq__(self,objeto2)
 ```
 
-Para el operador !=:
+Para el operador **!=**:
 
 ```python
 __ne__(self,objeto2)
 ```
 
-Para el operador >:
+Para el operador **>**:
 
 ```python
 __gt__(self,objeto2)
 ```
 
-Para el operador >=:
+Para el operador **>=**:
 
 ```python
 __ge__(self,objeto2)
 ```
 
-Para el operador <:
+Para el operador **<**:
 
 ```python
 __lt__(self,objeto2)
 ```
 
-Para el operador <=:
+Para el operador **<=**:
 
 ```python
 __le__(self,objeto2)

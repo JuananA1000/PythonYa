@@ -1,6 +1,6 @@
-# Funcionalidades
+# 15.2 Funcionalidades
 
-Para desinstalar un paquete en nuestro equipo se hace indicando el comando 'uninstall':
+Para desinstalar un paquete en nuestro equipo se hace indicando el comando `uninstall`:
 
 ```bash
 pip uninstall nombre_del_paquete
@@ -24,7 +24,7 @@ Hay una sintaxis resumida para la misma actividad:
 pip show -f wxPython
 ```
 
-Para conocer todos los paquetes instalados en nuestro entorno de Python debemos utilizar el comando 'list':
+Para conocer todos los paquetes instalados en nuestro entorno de Python debemos utilizar el comando `list`:
 
 ```bash
 pip list
@@ -38,13 +38,13 @@ Los desarrolladores de paquetes para Python están constantemente actualizando s
 pip list --outdated
 ```
 
-Si quisieramos instalar una versión concreta de un paquete debemos indicar en el comando 'install' la versión del mismo:
+Si quisieramos instalar una versión concreta de un paquete debemos indicar en el comando `install` la versión del mismo:
 
 ```bash
 pip install wxPython==4.0.2
 ```
 
-Para actualizar un paquete ya instalado debemos pasar el parámetro 'upgrade':
+Para actualizar un paquete ya instalado debemos pasar el parámetro `upgrade`:
 
 ```bash
 pip install --upgrade wxPython
