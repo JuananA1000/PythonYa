@@ -1,4 +1,4 @@
-# Variables enteras, flotantes y cadenas de caracteres
+# 6. Variables enteras, flotantes y cadenas de caracteres
 
 Hasta ahora, hemos visto como definir variables. Las hemos cargado **por asignación**, con el operador '='...
 

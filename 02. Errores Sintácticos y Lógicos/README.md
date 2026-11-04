@@ -1,4 +1,4 @@
-# Errores sintácticos y lógicos
+# 2. Errores sintácticos y lógicos
 
 En Python, los **errores al escribir o ejecutar código** se dividen en dos tipos principales: **errores sintácticos** y **errores lógicos**.
 Comprender y diferenciar los distintos errores es fundamental para un código funcional y fácil de depurar.

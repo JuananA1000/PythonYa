@@ -1,4 +1,4 @@
-# Introducción a la Programación en Python
+# 1. Introducción a la Programación en Python
 
 Este tutorial está diseñado para aquellos que desean aprender Python desde cero. Comienza explicando qué es un programa, el concepto de algoritmo y la importancia de los diagramas de flujo para resolver problemas lógicos.
 

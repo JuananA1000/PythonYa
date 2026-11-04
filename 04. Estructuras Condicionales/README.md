@@ -1,4 +1,4 @@
-# Estructuras Condicionales
+# 4. Estructuras Condicionales
 
 Este tipo de estructuras tienene el objetivo de hacernos **decidir** una opción u otra, según una o una serie de **condiciones**.
 
@@ -11,6 +11,16 @@ Este tipo de estructuras tienene el objetivo de hacernos **decidir** una opción
 Esta sería, más o menos, la representación gráfica de una **estructura condicional**.
 
 ![Diagrama de flujo](https://github.com/JuananA1000/PythonYa/blob/main/04.%20Estructuras%20Condicionales/condicion.jpg?raw=true)
+
+```mermaid
+flowchart TD
+    A{Condición}
+    A -->|Verdadero| B[Operaciones]
+    A -->|Falso| C(( ))
+    B --> D(( ))
+    C --> E(( ))
+    D --> E
+```
 
 El código básico de este tipo de estructuras sería el siguiente:
 

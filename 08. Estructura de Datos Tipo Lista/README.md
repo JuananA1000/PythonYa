@@ -1,4 +1,4 @@
-# Estructura de Datos de Tipo Lista
+# 7. Estructura de Datos de Tipo Lista
 
 Hasta ahora hemos trabajado con variables que permiten almacenar un único valor:
 

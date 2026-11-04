@@ -1,5 +1,4 @@
-
-# Procesar cadenas de caracteres
+# 7. Procesar cadenas de caracteres
 
 Ya hemos visto que podemos cargar cadena de caracteres por asignación:
 
