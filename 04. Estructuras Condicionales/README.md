@@ -10,8 +10,6 @@ Este tipo de estructuras tienene el objetivo de hacernos **decidir** una opción
 
 Esta sería, más o menos, la representación gráfica de una **estructura condicional**.
 
-![Diagrama de flujo](https://github.com/JuananA1000/PythonYa/blob/main/04.%20Estructuras%20Condicionales/condicion.jpg?raw=true)
-
 ```mermaid
 flowchart TD
     A{Condición}
