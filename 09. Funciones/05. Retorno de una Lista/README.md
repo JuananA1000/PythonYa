@@ -1,4 +1,4 @@
-## Retorno de una Lista
+## 9.5 Retorno de una Lista
 
 Una función puede recibir como parámetros tipos de datos simples como **enteros**, **flotantes** y **listas**.
 

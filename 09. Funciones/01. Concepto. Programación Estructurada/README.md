@@ -1,4 +1,4 @@
-## Concepto de funciones. Programación estructurada
+## 9.1. Concepto de funciones. Programación estructurada
 
 Una función es un conjunto de instrucciones en Python que resuelven un problema específico.
 

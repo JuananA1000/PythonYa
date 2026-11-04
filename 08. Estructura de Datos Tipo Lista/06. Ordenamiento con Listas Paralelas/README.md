@@ -1,4 +1,4 @@
-## Ordenamiento con Listas Paralelas
+## 8.6 Ordenamiento con Listas Paralelas
 
 Cuando se tienen listas paralelas...
 

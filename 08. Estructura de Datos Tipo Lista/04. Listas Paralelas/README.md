@@ -1,4 +1,4 @@
-## Listas paralelas
+## 8.4 Listas paralelas
 
 Dos listas son paralelas cuando hay una relación entre componentes con la misma posición de una lista y otra.
 

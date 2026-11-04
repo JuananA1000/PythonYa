@@ -1,4 +1,4 @@
-## Parámetros
+## 9.2 Parámetros
 
 Ya hemos visto que na función resuelve una parte de nuestro algoritmo.
 

@@ -1,4 +1,4 @@
-## Componentes de Tipo Lista
+## 8.7 Componentes de Tipo Lista
 
 Hasta ahora, hemos trabajado con listas de enteros...
 

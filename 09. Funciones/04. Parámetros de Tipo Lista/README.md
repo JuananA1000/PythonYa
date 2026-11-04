@@ -1,4 +1,4 @@
-## Parámetros de Tipo Lista
+## 9.4 Parámetros de Tipo Lista
 
 Trabajando con **programación estructurada**, dividimos nuestro problema por partes implementando **funciones**. La comunicación entre funciones se produce mediante el envío de datos a través de **parámetros** y el valor que retorna la función.
 

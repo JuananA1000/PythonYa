@@ -1,4 +1,4 @@
-# Funciones
+# 9. Funciones
 
 Hasta ahora, hemos trabajado con una metodología de **programación lineal** y las instrucciones de nuestros archivos *.py se ejecutan de forma secuencial de principio a fin.
 

@@ -1,4 +1,4 @@
-## Con Cantidad Variable de Parámetros
+## 9.8 Con Cantidad Variable de Parámetros
 
 Otra variante de las funciones en Python es la **definición de una cantidad variable de parámetros**.
 

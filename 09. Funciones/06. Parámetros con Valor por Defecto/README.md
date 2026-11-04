@@ -1,4 +1,4 @@
-## Parámetros con Valor por Defecto
+## 9.6 Parámetros con Valor por Defecto
 
 En Python se pueden definir parámetros con valores en la misma cabecera de la función. Cuando llamemos a la función podemos o no enviarle un valor distinto al parámetro.
 
