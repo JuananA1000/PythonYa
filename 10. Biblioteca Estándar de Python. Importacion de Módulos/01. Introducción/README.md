@@ -1,4 +1,4 @@
-## 13.1 Introducción
+## 10.1 Introducción
 
 Para importar **toda la funcionalidad** de un módulo de la Biblioteca Estándar de Python utilizamos la palabra clave `import` y seguidamente el nombre del módulo:
 

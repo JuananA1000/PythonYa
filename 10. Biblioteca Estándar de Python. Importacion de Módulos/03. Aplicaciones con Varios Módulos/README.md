@@ -1,4 +1,4 @@
-## 13.3 Aplicaciones con Varios Módulos
+## 10.3 Aplicaciones con Varios Módulos
 
 A medida que una aplicación crece, disponer todo el algoritmo en forma secuencial es difícil de mantener. Para ello, podemos resolverlo por partes con **funciones**, todas dispuestas en un único archivo.
 
