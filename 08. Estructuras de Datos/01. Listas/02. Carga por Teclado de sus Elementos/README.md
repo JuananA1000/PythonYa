@@ -1,4 +1,4 @@
-## 8.2 Carga por Teclado de sus Elementos
+### 8.1.2 Carga por Teclado de sus Elementos
 
 Las listas en Python son estructuras **mutables** porque **pueden cambiar durante la ejecución del programa**.
 

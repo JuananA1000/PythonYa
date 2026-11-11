@@ -1,4 +1,4 @@
-## 8.1 Introducción a las Listas
+### 8.1.1 Introducción a las Listas
 
 Para crear una lista por asignación debemos indicar sus elementos encerrados entre corchetes y separados por coma.
 

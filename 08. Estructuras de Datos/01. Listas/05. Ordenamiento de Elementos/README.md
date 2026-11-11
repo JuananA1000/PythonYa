@@ -1,4 +1,4 @@
-## 8.5 Ordenamiento de sus elementos
+### 8.1.5 Ordenamiento de sus elementos
 
 Otro algoritmo que se debe conocer es el **ordenamiento de una lista de datos**. El ordenamiento de una lista se logra intercambiando los componentes de manera que:
 

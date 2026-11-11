@@ -1,4 +1,4 @@
-## 8.9 Eliminación de Elementos
+### 8.1.9 Eliminación de Elementos
 
 Hemos visto que podemos iniciar listas por asignación con elementos...:
 

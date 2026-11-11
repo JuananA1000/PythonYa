@@ -1,4 +1,4 @@
-## 8.8 Carga por Teclado de Componentes de Tipo Lista
+### 8.1.8 Carga por Teclado de Componentes de Tipo Lista
 
 En el concepto anterior vimos que fácilmente podemos definir por asignación una lista cuyas componentes sean también listas:
 
