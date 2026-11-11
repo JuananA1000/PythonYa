@@ -1,4 +1,4 @@
-# 11. Estructura de datos tipo diccionario
+## 8.3 Estructura de Datos Tipo Diccionario
 
 Hasta ahora hemos presentado los datos en dos estructuras fundamentales: listas y tuplas. Ahora presentaremos y comenzaremos a utilizar la estructura de datos tipo **diccionario**.
 

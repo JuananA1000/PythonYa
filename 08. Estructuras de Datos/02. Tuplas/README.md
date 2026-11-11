@@ -1,4 +1,4 @@
-# 10. Estructura de Datos Tipo Tupla
+## 8.2 Estructura de Datos Tipo Tupla
 
 Hemos empleado tipos de datos simples como enteros, flotantes, cadenas de caracteres y estructuras de datos tipo lista.
 
