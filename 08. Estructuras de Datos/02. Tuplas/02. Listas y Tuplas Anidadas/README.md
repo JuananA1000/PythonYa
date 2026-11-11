@@ -1,4 +1,4 @@
-## 10.2 Listas y Tuplas Anidadas
+### 8.2.2 Listas y Tuplas Anidadas
 
 Hemos visto dos estructuras de datos fundamentales en Python que son las **listas** y las **tuplas**. Las listas son estructuras **mutables**, en cambio, las tuplas son **inmutables**, es decir una vez definida no puede cambiar.
 

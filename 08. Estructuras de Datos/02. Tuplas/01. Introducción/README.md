@@ -1,4 +1,4 @@
-## 10.1 Introducción
+### 8.2.1 Introducción
 
 Para definir una tupla **indicamos entre paréntesis** sus valores. Como hemos mencionado en la introducción de esta unidad, **no es necesario que los tipos de datos sean los mismos**, como veremos a continuación:
 
