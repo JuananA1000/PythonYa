@@ -1,4 +1,4 @@
-## 15.1 Introducción
+## 12.1 Introducción
 
 El paquete **wxPython** sirve para crear Interfaces Gráficas de Usuario (GUI) en aplicaciones de Python. 
 

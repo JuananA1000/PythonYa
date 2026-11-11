@@ -1,4 +1,4 @@
-# 15.2 Funcionalidades
+# 12.2 Funcionalidades
 
 Para desinstalar un paquete en nuestro equipo se hace indicando el comando `uninstall`:
 
