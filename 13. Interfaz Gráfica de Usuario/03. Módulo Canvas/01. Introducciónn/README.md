@@ -1,4 +1,4 @@
-### Introducción
+### 13.3.1 Introducción
 
 El control Canvas nos permite dibujar figuras como líneas, rectángulos, óvalos, arcos, etc.
 

@@ -1,4 +1,4 @@
-### Desplazar una Figura. Método `move()`
+### 13.3.4 Desplazar una Figura. Método `move()`
 
 Otra situación donde utilizaremos el id de una figura es cuando queramos desplazarla a otra posición dentro del Canvas.
 

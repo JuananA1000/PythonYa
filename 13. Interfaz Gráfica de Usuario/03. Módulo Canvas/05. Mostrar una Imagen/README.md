@@ -1,4 +1,4 @@
-### Mostrar una Imagen
+### 13.3.5 Mostrar una Imagen
 
 Si necesitamos mostrar una imagen dentro de un Canvas utilizaremos el método `PhotoImage` de tkinter, y luego mediante el método `create_image()` de la clase Canvas para su visualización.
 

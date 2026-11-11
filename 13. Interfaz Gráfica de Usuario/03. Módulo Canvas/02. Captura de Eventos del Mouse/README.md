@@ -1,4 +1,4 @@
-### Captura de Eventos del Mouse
+### 13.3.2 Captura de Eventos del Mouse
 
 Una actividad muy común es poder detectar cuando hemos presionado el mouse dentro de cualquier widget que hayamos visto
 y a partir de ahí disparar un evento.
