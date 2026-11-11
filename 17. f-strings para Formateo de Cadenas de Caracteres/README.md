@@ -1,4 +1,4 @@
-# 20. f-strings Para Formateo de Cadenas de Caracteres
+# 17. f-strings Para Formateo de Cadenas de Caracteres
 
 Las **f-strings** (formatted string literals) permiten insertar variables, expresiones y operaciones en una cadena de texto. Son una herramienta fundamental de Python. Permiten generar textos dinámicos, mostrar resultados numéricos y construir mensajes de forma sencilla y legible.
 
