@@ -1,4 +1,4 @@
-## 14.4 Colaboración de Clases
+## 11.4 Colaboración de Clases
 
 Normalmente un problema resuelto con la metodología de POO no interviene una sola clase, sino varias clases que interactúan y se comunican.
 

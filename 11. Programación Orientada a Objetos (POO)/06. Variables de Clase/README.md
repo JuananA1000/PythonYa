@@ -1,4 +1,4 @@
-## 14.6 Variables de Clase
+## 11.6 Variables de Clase
 
 En ocasiones, necesitamos almacenar datos comunes a todos los objetos de dicha clase, en esas situaciones debemos emplear **variables de clase**.
 Para definir una variable de clase lo haremos **dentro de la clase** pero **fuera de sus métodos**:

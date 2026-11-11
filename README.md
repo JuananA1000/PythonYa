@@ -49,7 +49,7 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 13. Biblioteca estándar de Python. Importación de módulos
 
-14. Programación orientada a objetos.
+11. Programación orientada a objetos.
 
 15. **pip**: instalador de paquetes
 
