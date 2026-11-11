@@ -1,4 +1,4 @@
-## 19.1 Introducción
+## 16.1 Introducción
 
 Las instrucciones `try` y `except` permiten controlar errores y evitar que el programa se detenga inesperadamente.
 

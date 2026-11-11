@@ -1,4 +1,4 @@
-# 19. Manejo de Excepciones en Python
+# 16. Manejo de Excepciones en Python
 
 Las **excepciones** son errores que se disparan durante la ejecución de un programa. En Python podemos dejar que dichas excepciones detengan el programa o en caso contrario escribir un algoritmo para reaccionar a dicha situación.
 
