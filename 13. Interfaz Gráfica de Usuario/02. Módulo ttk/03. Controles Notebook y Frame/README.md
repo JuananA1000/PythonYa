@@ -1,4 +1,4 @@
-### Controles Notebook y Frame
+### 13.2.3 Controles Notebook y Frame
 
 La clase **Notebook** permite crear un cuaderno con pestañas en la parte superior. En cada pestaña asociamos un objeto de la clase **Frame** y dentro de esta podemos crearr controles visuales como pueden ser Label, Button, Radiobutton, etc.
 

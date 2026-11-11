@@ -1,4 +1,4 @@
-### Layout Manager (Administrador de Diseño)
+### 13.2.5 Layout Manager (Administrador de Diseño)
 
 Una de las herramientas fundamentales cuando armamos interfaces visuales es la metodología para colocar controles dentro de ellas. Hasta ahora hemos utilizado el administrador de diseño Grid.
 

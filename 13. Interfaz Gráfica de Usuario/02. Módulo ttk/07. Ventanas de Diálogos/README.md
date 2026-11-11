@@ -1,4 +1,4 @@
-### Ventanas de Diálogos
+### 13.2.7 Ventanas de Diálogos
 
 Vimos en el concepto anterior que tkinter nos provee una serie de diálogos para mostrar mensajes de información y error. En muchas situaciones podemos necesitar crear otras ventanas con más funcionalidades que los simples ventanas de mensajes.
 

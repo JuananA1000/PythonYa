@@ -1,4 +1,4 @@
-### Control Combobox
+### 13.2.2 Control Combobox
 
 El control Combobox del paquete ttk permite seleccionar un string de un conjunto de items en un desplegable.
 

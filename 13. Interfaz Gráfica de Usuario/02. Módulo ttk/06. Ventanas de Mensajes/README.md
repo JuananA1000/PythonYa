@@ -1,4 +1,4 @@
-### Ventanas de Mensajes
+### 13.2.6 Ventanas de Mensajes
 
 En las aplicaciones de escritorio es común abrir ventanas emergentes para informar o advertir de errores al usuario.
 

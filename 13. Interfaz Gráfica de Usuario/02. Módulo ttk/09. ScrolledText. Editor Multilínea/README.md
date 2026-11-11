@@ -1,4 +1,4 @@
-### ScrolledText. Editor Multilínea
+### 13.2.9 ScrolledText. Editor Multilínea
 
 Vimos anteriormente el que control Entry nos permite ingresar una cadena de caracteres por teclado. **ScrolledText**, en su caso, nos permite ingresar **múltiples líneas**.
 
