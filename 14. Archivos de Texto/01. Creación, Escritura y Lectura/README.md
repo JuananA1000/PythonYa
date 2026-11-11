@@ -1,4 +1,4 @@
-## 17.1 Creación, Escritura y Lectura
+## 14.1 Creación, Escritura y Lectura
 
 Como es una actividad tan común en todo programa el lenguaje Python incluye por defecto todas las funcionalidades para trabajar con archivos de texto.
 

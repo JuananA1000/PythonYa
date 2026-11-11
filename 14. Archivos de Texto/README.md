@@ -1,4 +1,4 @@
-# 17. Archivos de Texto
+# 14. Archivos de Texto
 
 Una actividad muy común en un programa es el almacenamiento y recuperación de datos almacenados en un dispositivo secundario (disco duro).
 
