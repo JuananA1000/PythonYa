@@ -1,4 +1,4 @@
-## Controles Button y Label
+### 13.1.2 Controles Button y Label
 
 En las interfaces visuales las ventanas contienen controles como los **botones** y **etiquetas de texto**.
 

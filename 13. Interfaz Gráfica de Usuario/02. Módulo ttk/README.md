@@ -1,4 +1,4 @@
-## 16.2 Módulo ttk
+## 13.2 Módulo ttk
 
 En la versión 8.5 del módulo tkinter añadió controles visuales como **Notebook**, **Combobox** etc. Y actualizó los que vimos anteriormente. Para hacer uso de esta nueva versión de la biblioteca en Python se implementó un nuevo módulo.
 

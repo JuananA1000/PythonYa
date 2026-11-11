@@ -53,7 +53,7 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 15. **pip**: instalador de paquetes
 
-16. **pip**: funcionalidades
+13. **pip**: funcionalidades
 
 17. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
 
