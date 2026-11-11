@@ -1,4 +1,4 @@
-## 12.1 Porciones
+### 8.4.1 Porciones
 
 Python tiene una sintaxis muy sencilla para recuperar una **parte** de una lista, tupla o cadena de caracteres.
 

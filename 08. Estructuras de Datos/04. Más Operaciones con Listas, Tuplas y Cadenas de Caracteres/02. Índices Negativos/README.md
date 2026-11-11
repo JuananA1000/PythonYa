@@ -1,4 +1,4 @@
-## 12.2 Índices Negativos
+### 8.4.2 Índices Negativos
 
 Hemos visto que para acceder a un elemento de una lista, tupla o cadena de caracteres debemos indicar mediante un subíndice que comienza a numerarse a partir de cero.
 
