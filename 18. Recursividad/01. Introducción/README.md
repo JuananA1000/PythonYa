@@ -1,4 +1,4 @@
-## 21.1 Introducción
+## 18.1 Introducción
 
 Toda función recursiva necesita dos elementos:
 

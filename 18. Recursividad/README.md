@@ -1,4 +1,4 @@
-# 21. Recursividad
+# 18. Recursividad
 La recursividad es una técnica de programación que nos permite que un bloque de instrucciones se ejecute repetidas veces. Reemplaza en ocasiones a estructuras repetitivas.
 
 En Python las funciones pueden llamarse a sí mismas. Si dentro de una función existe la llamada a sí misma decimos que es **recursiva**.
