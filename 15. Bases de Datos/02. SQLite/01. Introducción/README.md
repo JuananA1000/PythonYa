@@ -1,4 +1,4 @@
-### 18.2.1 Introducción
+### 15.2.1 Introducción
 
 A diferencia de MySQL, SQLite **almacena toda la información en un único archivo**, normalmente con extensión `.db` o `.sqlite`.
 

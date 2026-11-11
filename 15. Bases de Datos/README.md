@@ -1,4 +1,4 @@
-# 18. Bases de Datos
+# 15. Bases de Datos
 
 En este apartado aprenderemos a trabajar con **bases de datos utilizando Python**. Estudiaremos cómo conectarnos a ellas, consultar información, insertar registros, modificarlos y eliminarlos mediante consultas SQL.
 

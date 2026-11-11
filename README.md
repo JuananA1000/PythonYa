@@ -57,7 +57,7 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 17. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
 
-18. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
+15. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
 
 19. **Archivos de texto**. Creación, escritura y lectura
 

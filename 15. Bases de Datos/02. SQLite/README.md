@@ -1,4 +1,4 @@
-## 18.2. SQLite
+## 15.2. SQLite
 
 La segunda base de datos que veremos su acceso desde Python es SQLite.
 
