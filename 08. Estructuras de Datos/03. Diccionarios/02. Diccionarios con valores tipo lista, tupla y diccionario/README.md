@@ -1,4 +1,4 @@
-## 11.2 Diccionarios con valores tipo lista, tupla y diccionario
+### 8.3.2 Diccionarios con valores tipo lista, tupla y diccionario
 
 En las estructuras de datos en Python podemos definir a su vez **otras estructuras de datos**, es decir, podemos anidar estructuras de datos dentro de otras.
 
