@@ -59,4 +59,5 @@ for linea in archivo:
 
 `strip()` elimina espacios y saltos de línea al principio y al final.
 
-**Nota:** Si el archivo está en otra carpeta, indica su ruta en `open()`.
+> [!IMPORTANT] 
+> Si el archivo está en otra carpeta, indica su ruta en `open()`.

@@ -141,4 +141,5 @@ De esta manera podemos utilizar phpMyAdmin para crear y administrar nuestras bas
 - [Preguntas frecuentes e instalación de XAMPP](https://www.apachefriends.org/es/faq_windows.html)
 - [Página oficial de phpMyAdmin](https://www.phpmyadmin.net/)
 
-**Nota:** XAMPP está pensado para entornos locales de desarrollo y aprendizaje, no para desplegar servidores en producción.
+> [!IMPORTANT] 
+> XAMPP está pensado para entornos locales de desarrollo y aprendizaje, no para desplegar servidores en producción.
