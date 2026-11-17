@@ -65,8 +65,9 @@ cursor.close()
 conexion.close()
 ```
 
-**Nota:** el ejemplo supone que el usuario `root` no tiene contraseña. Si has configurado una, debes introducirla en `password`. Si utilizas el servidor de XAMPP, recuerda que normalmente se trata de MariaDB.
-**Nota 2:** El parámetro `use_pure=True` indica al conector `mysql-connector` que utilice su implementación escrita íntegramente en Python, en lugar de utilizar la implementación basada en C.
+> [!IMPORTANT] 
+> 1. El ejemplo supone que el usuario `root` no tiene contraseña. Si has configurado una, debes introducirla en `password`. Si utilizas el servidor de XAMPP, recuerda que normalmente se trata de MariaDB.
+> 2. El parámetro `use_pure=True` indica al conector `mysql-connector` que utilice su implementación escrita íntegramente en Python, en lugar de utilizar la implementación basada en C.
 
 #### Errores frecuentes
 
