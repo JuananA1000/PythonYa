@@ -2,6 +2,22 @@
 
 Hablamos de **Estructuras Condicionales Anidadas** cuando, por cualquier de una estructura condicional, hay **otra estructura condicional, de nivel inferior**.
 
+```mermaid
+flowchart TD
+    A{"Condición"}
+    B{"Condición"}
+    C["Operaciones"]
+    D["Operaciones"]
+    E(( ))
+
+    A -->|Falso| B
+    A -->|Verdadero| C
+    B -->|Falso| E
+    B -->|Verdadero| D
+    C --> E
+    D --> E
+```
+
 ![Estructura Condicional Anidada](https://github.com/JuananA1000/PythonYa/blob/main/04.%20Estructuras%20Condicionales/02.%20Condicionales%20Anidados/ECA.jpg?raw=true)
 
 El esquema básico de este tipo de estructuras sería este...:
