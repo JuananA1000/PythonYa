@@ -1,4 +1,4 @@
-# 08. Estructuras de Datos
+# 8. Estructuras de Datos
 
 Python dispone de diferentes estructuras de datos que permiten almacenar y organizar información. Las principales son las **listas, tuplas, diccionarios y conjuntos (set)**.
 

@@ -1,4 +1,3 @@
-
 # 5. Estructuras Repetitivas.
 
 Hemos empleado estructuras **secuenciales** y **condicionales**. Ahora vamos a explicar qué son las **estructuras repetitivas**, también llamadas **bucles**.

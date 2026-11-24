@@ -1,4 +1,4 @@
-# Estructuras Condicionales Anidadas
+## 4.2 Estructuras Condicionales Anidadas
 
 Hablamos de **Estructuras Condicionales Anidadas** cuando, por cualquier de una estructura condicional, hay **otra estructura condicional, de nivel inferior**.
 

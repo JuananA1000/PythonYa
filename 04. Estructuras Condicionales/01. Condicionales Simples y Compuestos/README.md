@@ -1,4 +1,4 @@
-# Condicionales Simples y Compuestos
+## 4.1 Condicionales Simples y Compuestos
 
 Los condicionales simples y compuestos, permiten **tomar decisiones** en función de si una condición es verdadera o falsa.
 

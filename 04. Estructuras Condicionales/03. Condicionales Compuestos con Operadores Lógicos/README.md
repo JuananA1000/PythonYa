@@ -1,4 +1,4 @@
-# Estructuras Condicionales Compuestas con operadores lógicos
+## 4.3 Estructuras Condicionales Compuestas con operadores lógicos
 
 Hasta ahora hemos visto operadores:
 

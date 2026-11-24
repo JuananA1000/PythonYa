@@ -1,4 +1,3 @@
-
 ## 5.1 Estructura Repetitiva *WHILE*.
 
 Esta estructura, repite el código contenido en ella **mientras** la condición sea verdadera.
