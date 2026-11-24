@@ -29,56 +29,34 @@ Este repositorio es una excelente herramienta para dar tus primeros pasos en el 
 
 3. Programación Secuencial
 
-4. Estructuras Condicionales
+4. Estructuras Condicionales: Condición `if`
 
-5. Estructuras Repetitivas: Bucles **while** y **for**
+5. Estructuras Repetitivas: Bucles `while` y `for`
 
 6. Variables Enteras, Flotantes y Cadenas de Caracteres
 
 7. Procesar Cadenas de Caracteres
 
-8. Estructura de Datos Tipo Lista
+8. Estructura de Datos: Listas, Tuplas y Diccionarios
 
-9. Funciones
+9. Funciones: Concepto, Parámetros y Retorno de Datos
 
-10. Estructura de datos tipo Tupla
+10. Biblioteca Estándar de Python. Importación de Módulos
 
-11. Estructura de datos tipo Diccionario
+11. Programación Orientada a Objetos.
 
-12. Más Operaciones con Listas, Tuplas y Cadenas de Caracteres
+12. Python Installation Package `pip`: Instalador de Paquetes
 
-13. Biblioteca estándar de Python. Importación de módulos
+13. Interfaz Gráfica de Usuario. Bibliotecas `tkinter`, `ttk` y `Canvas`
 
-11. Programación orientada a objetos.
+14. Archivos de Texto
 
-15. **pip**: instalador de paquetes
+15. Bases de Datos
 
-13. **pip**: funcionalidades
+16. Manejo de Excepciones
 
-17. **Interfaz Gráfica de Usuario**. Módulo **tkinter**
+17. f-strings para Formateo de Cadenas de Caracteres
 
-15. **Interfaz Gráfica de Usuario**. **Canvas**, un componente de tkinter
+18. Recursividad
 
-19. **Archivos de texto**. Creación, escritura y lectura
-
-20. Bases de datos desde Python. **MySQL**, **SQLite** y **PostgreSQL**.
-
-21. Manejo de excepciones en Python
-
-22. Recursividad
-
-23. Funciones de orden superior
-
-24. Funciones lambda en Python
-
-25. Comprensión de listas en Python
-
-26. Estructura de datos tipo conjunto (set)
-
-27. Módulos y paquetes en Python
-
-28. Acceso a Internet mediante el paquete urllib
-
-29. Procesar archivos con formato JSON en Python. Módulo json
-
-30. Serialización y deserialización en Python. Módulo json
+19. Otras Funciones en Python. Funciones de Orden Superior y Lambda.
