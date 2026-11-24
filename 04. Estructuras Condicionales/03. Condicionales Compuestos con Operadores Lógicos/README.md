@@ -22,8 +22,6 @@ flowchart LR
     style C fill:transparent,stroke:transparent,color:transparent
 ```
 
-![Estructura Condicional Anidada con operadores lógicos](https://github.com/JuananA1000/PythonYa/blob/main/04.%20Estructuras%20Condicionales/03.%20Condicionales%20Compuestos%20con%20Operadores%20L%C3%B3gicos/ECCol.jpg?raw=true)
-
 Si la condición 1 **Y** la condición 2 son verdaderas, se ejecuta la rama del verdadero.
 
 El uso de operadores lógicos permite en muchos casos plantear algoritmos más cortos y comprensibles.
